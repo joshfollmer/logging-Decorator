@@ -17,3 +17,6 @@ ensure that it works with imported functions
 ensure that it works with recursive imported functions
 utilize docstrings for the decorator and test functions
 ensure that the decorators preserve arguments and returns
+
+
+The time calculator function is an example function, it can work with any function I pass to it.
